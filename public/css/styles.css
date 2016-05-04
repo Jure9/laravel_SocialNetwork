@@ -1,0 +1,26 @@
+.new_post
+{
+    padding: 20px 0 35px 0;
+    border-bottom:  1px solid #ccc;
+}
+.posts
+{
+    padding-top: 25px;
+}
+.posts .post
+{
+    border-bottom: 1px solid #ccc ;
+    margin-bottom: 40px;
+
+}
+.new_post header,
+.posts header
+{
+    margin-bottom: 30px;
+    padding-left: 15px;
+}
+.posts .post .info
+{
+    font-weight: bold;
+    font-style: italic;
+}
